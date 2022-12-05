@@ -1,1 +1,2 @@
-# bootcamp-fwd2022-niaridania
+# bootcamp-fwd2022
+bootcamp-fwd2022
